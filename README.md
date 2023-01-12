@@ -1,20 +1,13 @@
-java8-functional-Katas
+Ejercicios para Java funcional
 ======================
-Some Katas for functional programming in Java 8 for a coding dojo (loosely based on http://reactive-extensions.github.io/learnrx/ and converted to Java)
+En el presente proyecto se soluciona cierta cantidad de ejercicios, con el fin de aprender y/o fortalecer los
+conocimientos en cuanto a los operadores para la programación funcional se refiere. Cabe anotar que todo es
+enfocado a Java.
 
-Just read the instructions in the Kata and try to finish them. You can also use TDD if you want - there are dummy tests for all Katas.
+Tecnologías utilizadas:
 
-Katas
------
+-  [Java 8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+   <image src="https://www.opencodez.com/wp-content/uploads/2018/02/Java-8-using-Examples.png" alt="Java 8" height="200">
 
-* Kata 1: simple projection using map
-* Kata 2: filter() and map()
-* Kata 3: using map() and flattening the array using flatMap()
-* Kata 4: a simple query using map(), filter() and flatMap()
-* Kata 5: simple example using reduce()
-* Kata 6: map() and reduce() combined
-* Kata 7: more advanced queryin
-* Kata 8: combining collections using zip()
-* Kata 9: Complex Query
-* Kata 10: Transforming a data structure
-* Kata 11: Transforming a more complex data structure
+-  IDE: [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+   <image src="https://pbs.twimg.com/profile_images/1206618215767584769/zl48EuhC_400x400.jpg" alt="IntelliJ IDEA" height="200">
